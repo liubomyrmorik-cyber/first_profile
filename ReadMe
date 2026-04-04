@@ -1,1 +1,18 @@
+#Flask Blog
 
+## description
+flask blog is a web blog where you can create delte posts and see other people posts
+
+##technology
+-Python 3
+-Flask
+-SQlite
+-HTML/CSS
+
+##download and start
+1.**Copy repository**
+2.**create virtual surroundings**
+3.**download dependencies**
+Flask
+Flask-Login
+4.**Start server**
